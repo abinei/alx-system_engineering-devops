@@ -1,0 +1,2 @@
+#!/bi/?bash
+echo $PATH | tr -s ':' '\n' | wc -1
